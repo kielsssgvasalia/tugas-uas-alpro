@@ -3,7 +3,7 @@
 Program ini dibuat untuk memenuhi tugas **Ujian Akhir Semester (UAS)**  
 Mata Kuliah **Algoritma dan Pemrograman Lanjutan**  
 Program Studi **Pendidikan Teknologi Informasi**  
-Universitas Muhammadiyah Tasikmalaya
+Universitas Muhammadiyah Tasikmalaya 
 
 ---
 
