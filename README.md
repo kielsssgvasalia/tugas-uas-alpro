@@ -34,4 +34,4 @@ Program menyediakan menu dengan beberapa pilihan, antara lain:
 
 ---
 
-## Screen Shoot Program
+## Screenshot Program
