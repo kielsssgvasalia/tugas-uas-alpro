@@ -35,3 +35,6 @@ Program menyediakan menu dengan beberapa pilihan, antara lain:
 ---
 
 ## Screenshot Program
+![alt text](https://github.com/kielsssgvasalia/tugas-uas-alpro/blob/main/assets/screnshoot%20program%20(1).png?raw=true)
+![alt text](https://github.com/kielsssgvasalia/tugas-uas-alpro/blob/main/assets/screnshoot%20program%20(2).png?raw=true)
+[alt text](https://github.com/kielsssgvasalia/tugas-uas-alpro/blob/main/assets/screnshoot%20program%20(4).png?raw=true)
